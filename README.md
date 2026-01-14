@@ -1,4 +1,4 @@
-# Hi, I’m Rohit 👋
+# Hi, I’m Rohit Ravindra
 
 I’m a **Software Engineer** who enjoys building systems that actually run in production — at scale, under constraints, with real users and real consequences.
 
